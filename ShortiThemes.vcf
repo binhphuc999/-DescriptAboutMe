@@ -1,17 +1,17 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:Nguyen Nang Binh
+FN;CHARSET=UTF-8:"Name"
 N;CHARSET=UTF-8:Binh;Nguyen;Nang;;
 NICKNAME;CHARSET=UTF-8:Inferno
 GENDER:M
 BDAY:20040221
 EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:binhphuc999@gmail.com
-TEL;TYPE=HOME,VOICE:+84374212043
-ADR;CHARSET=UTF-8;TYPE=HOME:;;Tan An;Hai Duong;Hai Duong;80000;Viet Nam
+TEL;TYPE=HOME,VOICE:"Phone Number"
+ADR;CHARSET=UTF-8;TYPE=HOME:;;"Address || use ";" to separate town, province or etc..."
 ROLE;CHARSET=UTF-8:Developer
 ORG;CHARSET=UTF-8:Freelance
-URL;CHARSET=UTF-8:https://nguyennangbinh.com/
-X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/binh.scriptkiddy
-X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/imadev2102/
+URL;CHARSET=UTF-8:https://nguyennangbinh.xyz/
+X-SOCIALPROFILE;TYPE=facebook:"FB link"
+X-SOCIALPROFILE;TYPE=instagram:"Instagram link"
 REV:2022-02-03T12:57:02.273Z
 END:VCARD
