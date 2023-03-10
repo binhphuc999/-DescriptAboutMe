@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Nguyen Nang Binh
+N;CHARSET=UTF-8:Binh;Nguyen;Nang;;
+NICKNAME;CHARSET=UTF-8:Inferno
+GENDER:M
+BDAY:20040221
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:binhphuc999@gmail.com
+TEL;TYPE=HOME,VOICE:+84374212043
+ADR;CHARSET=UTF-8;TYPE=HOME:;;Tan An;Hai Duong;Hai Duong;80000;Viet Nam
+ROLE;CHARSET=UTF-8:Developer
+ORG;CHARSET=UTF-8:Freelance
+URL;CHARSET=UTF-8:https://nguyennangbinh.com/
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/binh.scriptkiddy
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/imadev2102/
+REV:2022-02-03T12:57:02.273Z
+END:VCARD
